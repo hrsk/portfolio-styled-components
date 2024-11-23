@@ -1,3 +1,5 @@
 export * from './footer/social_media/SocialMediaList'
 export * from './Container'
 export * from './FlexWrapper'
+export * from './project/Project'
+export * from './project_menu/ProjectMenu'
